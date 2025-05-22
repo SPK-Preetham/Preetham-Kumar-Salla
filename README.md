@@ -57,7 +57,8 @@
 </head>
 <body>
   <header>
-    <img src="profile.jpg" alt="S. Preetham Kumar">
+    <img src="![Picsart_23-09-24_14-51-32-194](https://github.com/user-attachments/assets/e2a0a2e7-056a-4a96-b6bb-b2754d6dc461)
+" alt="S. Preetham Kumar">
     <h1>S. Preetham Kumar</h1>
     <p>Sales & Marketing Professional</p>
   </header>  <section>
